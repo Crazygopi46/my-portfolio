@@ -4,15 +4,15 @@
   <p><strong>Python Full Stack Developer & Digital Creator</strong></p>
 
   <p>
-    <a href="https://gopi-portfolio.vercel.app"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo"></a>
-    <a href="https://github.com/Crazygopi46/gopi_portfolio/stargazers"><img src="https://img.shields.io/github/stars/Crazygopi46/gopi_portfolio?style=for-the-badge&color=yellow" alt="Stars"></a>
-    <a href="https://github.com/Crazygopi46/gopi_portfolio/network/members"><img src="https://img.shields.io/github/forks/Crazygopi46/gopi_portfolio?style=for-the-badge&color=orange" alt="Forks"></a>
+    <a href="https://crazygopi46.github.io/my-portfolio/"><img src="https://img.shields.io/badge/Deployed%20with-GitHub%20Pages-blue?style=for-the-badge&logo=github" alt="GitHub Pages"></a>
+    <a href="https://github.com/Crazygopi46/my-portfolio/stargazers"><img src="https://img.shields.io/github/stars/Crazygopi46/my-portfolio?style=for-the-badge&color=yellow" alt="Stars"></a>
+    <a href="https://github.com/Crazygopi46/my-portfolio/network/members"><img src="https://img.shields.io/github/forks/Crazygopi46/my-portfolio?style=for-the-badge&color=orange" alt="Forks"></a>
     <a href="mailto:gopiofficial2005@gmail.com"><img src="https://img.shields.io/badge/Contact-Email-blue?style=for-the-badge&logo=gmail" alt="Email"></a>
   </p>
 
   <p>A sleek, responsive, and modern developer portfolio website showcasing my journey, technical skills, projects, and work experience.</p>
 
-  <a href="https://gopi-portfolio.vercel.app"><strong>Explore The Live Portfolio »</strong></a>
+  <a href="https://crazygopi46.github.io/my-portfolio/"><strong>Explore The Live Portfolio »</strong></a>
 
 </div>
 
@@ -64,12 +64,12 @@ To preview or run this portfolio locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Crazygopi46/gopi_portfolio.git
+   git clone https://github.com/Crazygopi46/my-portfolio.git
    ```
 
 2. **Navigate into the project folder:**
    ```bash
-   cd gopi_portfolio
+   cd my-portfolio
    ```
 
 3. **Open in browser:**
